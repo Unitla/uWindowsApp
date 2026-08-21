@@ -29,21 +29,21 @@ uWindowsApp/
 
 🚀 Getting Started
 
-    Database Setup:
+Database Setup:
 
-        Execute the script located in Database/script.sql on your local SQL Server instance.
+    Execute the script located in Database/script.sql on your local SQL Server instance.
 
-        The script initializes the database schema and populates it with dummy data for immediate testing.
+    The script initializes the database schema and populates it with dummy data for immediate testing.
 
-        Startup file is Program.vb
+    Startup file is Program.vb
 
-    Configuration:
+Configuration:
 
-        Update the connection string in Data/DatabaseHelper.vb (or App.config) to point to your SQL Server instance.
+     Update the connection string in Data/DatabaseHelper.vb (or App.config) to point to your SQL Server instance.
 
-    Build & Run:
+Build & Run:
 
-        Open the solution in Visual Studio, restore dependencies, and press F5.
+     Open the solution in Visual Studio, restore dependencies, and press F5.
 
 🧪 Testing
 
