@@ -17,7 +17,7 @@ A desktop application built with **VB.NET**, **WinForms**, and **SQL Server**. T
 ## 🏗️ Solution Structure
 
 ```text
-LibraryMS/
+uWindowsApp/
 ├── Database/               # DDL Scripts & Dummy Data (script.sql)
 ├── Domain/                 # Core Entities
 ├── Data/                   # Data Access Layer / Repositories (ADO.NET)
