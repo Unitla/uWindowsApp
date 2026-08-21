@@ -25,6 +25,7 @@ LibraryMS/
 ├── Views/                  # Abstraction contracts (IMainView) & WinForms Views
 ├── Presenters/             # Presentation Logic & Orchestration
 └── Tests/                  # Unit Tests for Presenters and Domain Logic
+`
 
 🚀 Getting Started
 
@@ -33,6 +34,8 @@ LibraryMS/
         Execute the script located in Database/script.sql on your local SQL Server instance.
 
         The script initializes the database schema and populates it with dummy data for immediate testing.
+
+        Startup file is Program.vb
 
     Configuration:
 
