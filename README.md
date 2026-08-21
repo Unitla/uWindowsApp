@@ -1,4 +1,4 @@
-# Library Management System (WinForms & VB.NET)
+# Patient Management System (WinForms & VB.NET)
 
 A desktop application built with **VB.NET**, **WinForms**, and **SQL Server**. The project demonstrates modern software engineering principles toward a clean, maintainable, and fully testable architecture.
 
@@ -19,7 +19,7 @@ A desktop application built with **VB.NET**, **WinForms**, and **SQL Server**. T
 ```text
 LibraryMS/
 ├── Database/               # DDL Scripts & Dummy Data (script.sql)
-├── Domain/                 # Core Entities (Book, User)
+├── Domain/                 # Core Entities
 ├── Data/                   # Data Access Layer / Repositories (ADO.NET)
 ├── Infrastructure/         # Cross-cutting concerns (Security, Validation Engine)
 ├── Views/                  # Abstraction contracts (IMainView) & WinForms Views
